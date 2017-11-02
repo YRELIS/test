@@ -1,0 +1,6 @@
+D:\!Колледж!\3 курс\ТРПО\kkr2\kkr2\bin\Debug\kkr2.exe.config
+D:\!Колледж!\3 курс\ТРПО\kkr2\kkr2\bin\Debug\kkr2.exe
+D:\!Колледж!\3 курс\ТРПО\kkr2\kkr2\bin\Debug\kkr2.pdb
+D:\!Колледж!\3 курс\ТРПО\kkr2\kkr2\obj\Debug\kkr2.csprojResolveAssemblyReference.cache
+D:\!Колледж!\3 курс\ТРПО\kkr2\kkr2\obj\Debug\kkr2.exe
+D:\!Колледж!\3 курс\ТРПО\kkr2\kkr2\obj\Debug\kkr2.pdb
